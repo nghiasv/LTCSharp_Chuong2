@@ -1,0 +1,15 @@
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\bin\Debug\net8.0\C2_Bai1.exe
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\bin\Debug\net8.0\C2_Bai1.deps.json
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\bin\Debug\net8.0\C2_Bai1.runtimeconfig.json
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\bin\Debug\net8.0\C2_Bai1.dll
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\bin\Debug\net8.0\C2_Bai1.pdb
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\C2_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\C2_Bai1.AssemblyInfoInputs.cache
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\C2_Bai1.AssemblyInfo.cs
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\C2_Bai1.csproj.CoreCompileInputs.cache
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\C2_Bai1.sourcelink.json
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\C2_Bai1.dll
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\refint\C2_Bai1.dll
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\C2_Bai1.pdb
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\C2_Bai1.genruntimeconfig.cache
+D:\DH\224\224LTC#\Chuong2\LTCSharp_Chuong2\Bai1\C2_Bai1\C2_Bai1\obj\Debug\net8.0\ref\C2_Bai1.dll

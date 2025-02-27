@@ -14,6 +14,7 @@
 
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Sinhvien("Doan Kim Nghia", "22115053122232", 21);
+
     }
 }
