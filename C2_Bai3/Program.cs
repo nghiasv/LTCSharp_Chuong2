@@ -11,8 +11,14 @@
         Console.WriteLine("Tuoi: {0}", Tuoi232);
         Console.WriteLine("Nghanh: {0}", Nganh232);
     }
+    enum Nghia
+    {
+        Tuoi232 = 21
+    }
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+
+        Sinhvien("Doan Kim Nghia", "22115053122232", (int)Nghia.Tuoi232);
+
     }
 }
